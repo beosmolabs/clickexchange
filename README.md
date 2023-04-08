@@ -1,5 +1,5 @@
 # ClickExchange
-ClickExchange Website
+The whole of ClickExchange is above, you can contribute to its development.
 
 ## Features
 
