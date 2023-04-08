@@ -34,7 +34,7 @@
 <div id="logo">Clickexchange</div>
 <center><small>Pour accéder à notre service, merci de vous connectez. </small></center>
 <div style="margin-top:15px"></div>
-    <a href="https://auth.sayme.app?auth=xNUDxYgb0B7ozRaQRLOjXjHDtY1QMTGN1CwN1eiPJDoffUbceA1615399300" id="sayme">Connexion avec SAYME </a>
+    <a href="https://auth.sayme.app?auth=(CODE)" id="sayme">Connexion avec SAYME </a>
 </div>    
    
    
