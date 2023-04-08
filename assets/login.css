@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@font-face {
+    font-family: Raleway-ExtraBoldItalic;
+    src: url(Raleway-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Raleway-ExtraBold;
+    src: url(Raleway-ExtraBold.ttf);
+}
+
+
+body {
+	margin: 0;
+	font-family: "Raleway", sans-serif;
+	background-color:#f1f2f6;
+	color:#303030;
+}
+
+#sayme{   
+    font-size: 14px;
+    border-radius: 15px;
+	border: 2px solid #303030;
+	background-color:#303030;
+	padding: 5px;
+	transition: 0.25s;
+	color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    width:97%;
+	text-transform: uppercase;
+	font-size: 14px;
+	display:block;
+}
+#sayme:hover{
+    border: 2px solid #383838;
+	background-color:#383838;
+	color:#fff;
+}
+
+#logo{
+    color:#1d1d1d;
+    font-family: "Raleway-ExtraBoldItalic";
+    font-size: 38px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+     text-decoration: none;
+     color:#1d1d1d;
+}
+a:hover {
+     text-decoration: none;
+     color:#1d1d1d;
+}
+#contenu{
+	width: 450px;
+	margin: auto;
+}
+@media screen and (max-width: 960px) {
+	#contenu {
+		width: 95%;
+		margin: auto;
+	}
+}
