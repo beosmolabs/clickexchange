@@ -7,7 +7,6 @@ The whole of ClickExchange is above, you can contribute to its development.
 - Logs
 - Settings
 - Add new link
-- Panel Manager
 
 ## Installation
 
