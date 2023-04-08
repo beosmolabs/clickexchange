@@ -1,6 +1,14 @@
 # ClickExchange
 ClickExchange Website
 
+## Features
+
+- SAYME Connect (For login)
+- Logs
+- Settings
+- Add new link
+- Panel Manager
+
 ## Installation
 
 You will need to create a database
