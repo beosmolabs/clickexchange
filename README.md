@@ -50,3 +50,6 @@ ALTER TABLE `logs`
 ALTER TABLE `users`
   ADD PRIMARY KEY (`id`);
 ```
+## Authors
+
+- [@olagdev](https://www.github.com/olagdev)
