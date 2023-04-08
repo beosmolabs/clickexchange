@@ -8,7 +8,7 @@ if (isset($_SERVER["HTTP_CF_CONNECTING_IP"])) {
 }
 
 try {
-	$bdd = new PDO('mysql:host=localhost;dbname=sqncktzh_dataclick', 'sqncktzh_userclick', 'qsVpNIIqDOfBQT0');
+	$bdd = new PDO('mysql:host=localhost;dbname=database', 'user', 'password');
 
 	date_default_timezone_set('Europe/Paris');
 
