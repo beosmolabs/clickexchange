@@ -1,2 +1,2 @@
-# clickexchange
+# ClickExchange
 ClickExchange Website
